@@ -1,4 +1,4 @@
-"""# Initializing neural network training pipeline"""
+"""# Initializing neural network training pipelines"""
 import time
 import random
 import numpy as np
